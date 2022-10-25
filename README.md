@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Atualmente Rodando em 
-https://effulgent-pegasus-0ab2af.netlify.app/
+https://matheus-twitter-clone.netlify.app/
 
 ## Available Scripts
 
